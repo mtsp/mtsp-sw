@@ -1,0 +1,10 @@
+-std=c++11
+-include ./scheduler.cpp
+-include ./mtsp.cpp
+-include ./task_graph.cpp
+-include ./dep_tracker.cpp
+-include ./fe_interface.cpp
+-g3
+-std=c++11
+-fpic
+-I/opt/intel/vtune_amplifier_xe_2015.4.0.410668/include/
